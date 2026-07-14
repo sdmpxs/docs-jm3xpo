@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-13amy1.yoursingles.online/sitemap.xml
